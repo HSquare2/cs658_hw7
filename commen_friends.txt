@@ -2,3 +2,6 @@ XinHao, xiaoming
 XinHao, xiaoli
 XinHao, xiaowang
 xiaozhao, xiaoxia
+inHao, xiaogao
+xiaoxia, xiaoli
+xiaoxia, xiaowang
