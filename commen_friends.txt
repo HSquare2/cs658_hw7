@@ -2,14 +2,3 @@ XinHao, xiaoming
 XinHao, xiaoli
 XinHao, xiaowang
 xiaozhao, xiaoxia
-xiaolei, XinHao
-xiaolei, xiaowang
-xiaofang, XinHao
-xiaogao, xiaoxia
-xiaolei, xiaogao
-xiaozhao, xiaogao
-xiaogao, xiaoli
-xiaoxia, xiaoming
-XinHao, xiaogao
-xiaoxia, xiaoli
-xiaoxia, xiaowang
